@@ -41,7 +41,7 @@
     <div class="col-md-12 col-sm-12 col-12">
         <div class="card card-primary card-outline">
             <div class="card-header">
-                <h5 class="card-title m-0"><b>Estimasi Pendaftar Tahun <?= date('Y') ?></b></h5>
+                <h5 class="card-title m-0"><b>Estimasi Pendaftaran Tahun <?= date('Y') ?></b></h5>
             </div>
             <div class="card-body">
 
